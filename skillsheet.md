@@ -152,50 +152,50 @@ VSCodeが使えない、コマンドライン環境で使います。
 
   - repo: https://github.com/ray-chan-dayo/Psi (他の人が作ったmodのバグ修正)
 
-## npm
+### npm
 
 よく触っています。
 実は自分用にパッケージを一つ作っています。
 
 https://www.npmjs.com/package/@ray-chan-dayo/expect
 
-## Git
+### Git
 
 cherry-pickとrebaseは殆ど使ったことがないです。他は普段から使ってます。
 
-## Github
+### Github
 
 以前は日常的に使っていたのですが、最近はあんまり触っていません。
 Actionsは少しだけ触りました。
 
 repo: https://github.com/ray-chan-dayo/dancing-on-table/
 
-## Firebase
+### Firebase
 
 無料で使えるデータベースとして活用しています。
 夢アカで対戦ゲームの構築を支援したり、チャットアプリを作るワークショップを開催しました。
 
-## Office
+### Office
 
 Googleを好んで使いますが、Microsoftも使えます。
 普段はForm、Slide、Spreadsheetを使ったり、軽い作業をGASで自動化したりします。
 PowerPoint、Excelも人並みには触れます。
 
-## Unity
+### Unity
 
 実はあまり得意ではないです。
 
-# Others
+## Others
 
-## 教育
+### 教育
 
 夢アカで講師をしています。
 
-## イベント開催
+### イベント開催
 
 勉強会やマイクラ系等、いくつか開催・運営しました。
 
-## VR / AR
+### VR / AR
 
 ARでプロジェクトを作成したり、VRChatにアバターをアップロードしたりしています。
 
