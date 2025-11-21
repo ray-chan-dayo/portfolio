@@ -68,6 +68,18 @@ Minecraftのmod作成で使いました。
 
 自身のあるものから降順になっています。
 
+### Geolocation API
+
+夢アカでも位置情報と連携したプロジェクトは多く、しょっちゅう使っています。
+
+repo: https://github.com/namecoco256/yokosuka-sound
+
+### Canvas API
+
+画像処理に使っています。張り付けた画像の情報に損失が出るのが悩み。
+
+repo:  https://github.com/ray-chan-dayo/stamp-extractor
+
 ### three.js
 
 夢アカで「3Dサイコロを作ろう」と題してワークショップを開きました。
@@ -77,6 +89,8 @@ https://github.com/TACOS1225/yumeaka-dice (完成品を持ち合わせていな�
 ### Vite
 
 VueやElectronを使うプロジェクトのイニシャライズに使っています。
+
+repo: https://github.com/ray-chan-dayo/img2jasmine
 
 ### Electron
 
@@ -95,6 +109,13 @@ repo: https://github.com/ray-chan-dayo/img2jasmine
 ### paypay
 
 勉強中です。
+
+### Storage API
+
+昔触りました。
+
+repo: https://github.com/namecoco256/yokosuka-sound
+
 
 ### jszip
 
@@ -189,7 +210,12 @@ PowerPoint、Excelも人並みには触れます。
 
 ### 教育
 
-夢アカで講師をしています。
+- カリキュラム作成
+- 授業作成
+- 机間指導
+- 教材作成
+- 評価
+など。
 
 ### イベント開催
 
@@ -200,3 +226,7 @@ PowerPoint、Excelも人並みには触れます。
 ARでプロジェクトを作成したり、VRChatにアバターをアップロードしたりしています。
 
 repo: https://github.com/ray-chan-dayo/dancing-on-table
+
+### 英語
+
+日常会話程度。
